@@ -253,6 +253,8 @@ The full code implementation is available in the project repository and includes
 
 The analysis was conducted using:
 - Python 3.8
+- Arduino
+- MPU6050(Acceloremeter+Gyro)
 - TensorFlow 2.4
 - Scikit-learn 0.24
 - TSFEL 0.1.5
